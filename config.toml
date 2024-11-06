@@ -1,0 +1,4 @@
+baseURL = 'https://illogical.me/'
+languageCode = 'en-uk'
+title = '(il)logical me'
+theme= "blowfish"
